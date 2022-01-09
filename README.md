@@ -20,6 +20,7 @@ You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/shriekdj/)
 * [Dev.to](https://dev.to/shriekdj)
 * [Medium](https://shriekdj.medium.com/)
+* [CodeWithShriekDj Discord Server](https://discord.gg/5x493re7CV)
 
 
 <!--
