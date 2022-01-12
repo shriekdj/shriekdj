@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My dev.to Latest Blog posts
+# My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Build a freeCodeCamp&#39;s FCC: Personal Portfolio of Shrikant Dhayje](https://dev.to/shriekdj/build-a-freecodecamps-fcc-personal-portfolio-of-shrikant-dhayje-1i02)
 - [Build a freeCodeCamp&#39;s FCC: Tribute Page for Dr. B. R. Ambedkar](https://dev.to/shriekdj/build-a-freecodecamps-fcc-tribute-page-for-dr-b-r-ambedkar-2j18)
