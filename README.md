@@ -40,4 +40,9 @@ Here are some ideas to get you started:
 
 # My dev.to Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a freeCodeCamp&#39;s FCC: Personal Portfolio of Shrikant Dhayje](https://dev.to/shriekdj/build-a-freecodecamps-fcc-personal-portfolio-of-shrikant-dhayje-1i02)
+- [Build a freeCodeCamp&#39;s FCC: Tribute Page for Dr. B. R. Ambedkar](https://dev.to/shriekdj/build-a-freecodecamps-fcc-tribute-page-for-dr-b-r-ambedkar-2j18)
+- [Install Visual Studio Code on Windows PC &lpar;VS Code&rpar; In 100 Sec | Installation | CodeWithShriekDj](https://dev.to/shriekdj/install-visual-studio-code-on-windows-pc-vs-code-in-100-sec-installation-codewithshriekdj-5a3i)
+- [Let&#39;s Understand Some OOP &lpar; Object Oriented Programming &rpar; terms easily.](https://dev.to/shriekdj/lets-understand-some-oop-object-oriented-programming-terms-easily-1i5)
+- [Let&#39;s Understand Classes And Objects &lpar; Instances &rpar; In Programming  for Simplicity.](https://dev.to/shriekdj/lets-understand-classes-and-objects-in-programming-for-simplicity-24ni)
 <!-- BLOG-POST-LIST:END -->
