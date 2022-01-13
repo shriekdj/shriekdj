@@ -1,4 +1,4 @@
-### Hey! I'm [@shriekdj](https://twitter.com/shriekdj) (Shrikant Dhayje) 👋
+## Hey! I'm [@shriekdj](https://twitter.com/shriekdj) (Shrikant Dhayje) 👋
 
 I'm a software developer from India. :india:
 
@@ -12,7 +12,7 @@ Ask me about Python 3 (django, FastAPI, Flask Web Development, etc), C++ Program
 
 I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks.
 
-You can find me on:
+### You can find me on:
 
 * [My website: shriekdj.github.io](https://shriekdj.github.io/)
 * [Twitter as @shriekdj](https://twitter.com/shriekdj)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My [dev.to](https://dev.to/shriekdj) Latest Blog posts
+## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Build a freeCodeCamp&#39;s FCC: Personal Portfolio of Shrikant Dhayje](https://dev.to/shriekdj/build-a-freecodecamps-fcc-personal-portfolio-of-shrikant-dhayje-1i02)
 - [Build a freeCodeCamp&#39;s FCC: Tribute Page for Dr. B. R. Ambedkar](https://dev.to/shriekdj/build-a-freecodecamps-fcc-tribute-page-for-dr-b-r-ambedkar-2j18)
