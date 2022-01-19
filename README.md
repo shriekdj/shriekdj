@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python venv or virtualenv won&#39;t activate on windows](https://dev.to/shriekdj/python-venv-or-virtualenv-wont-activate-on-windows-3e2)
 - [Django Posts Announcement](https://dev.to/shriekdj/django-posts-announcement-2aph)
 - [How The Web Works Explained With help of Figma On YouTube](https://dev.to/shriekdj/how-the-web-works-explained-with-help-of-figma-on-youtube-4k1o)
 - [Build a freeCodeCamp&#39;s FCC: Personal Portfolio of Shrikant Dhayje](https://dev.to/shriekdj/build-a-freecodecamps-fcc-personal-portfolio-of-shrikant-dhayje-1i02)
 - [Build a freeCodeCamp&#39;s FCC: Tribute Page for Dr. B. R. Ambedkar](https://dev.to/shriekdj/build-a-freecodecamps-fcc-tribute-page-for-dr-b-r-ambedkar-2j18)
-- [Install Visual Studio Code on Windows PC &lpar;VS Code&rpar; In 100 Sec | Installation | CodeWithShriekDj](https://dev.to/shriekdj/install-visual-studio-code-on-windows-pc-vs-code-in-100-sec-installation-codewithshriekdj-5a3i)
 <!-- BLOG-POST-LIST:END -->
