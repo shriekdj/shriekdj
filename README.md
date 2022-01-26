@@ -14,7 +14,7 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 
 ### You can find me on:
 
-* [My website: shriekdj.github.io](https://shriekdj.github.io/)
+* [My website: shriekdj.tk](https://shriekdj.tk/)
 * [Twitter as @shriekdj](https://twitter.com/shriekdj)
 * [GitHub as @shriekdj (you are here)](https://github.com/shriekdj)
 * [LinkedIn](https://www.linkedin.com/in/shriekdj/)
