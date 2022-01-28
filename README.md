@@ -20,7 +20,7 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 * [LinkedIn](https://www.linkedin.com/in/shriekdj/)
 * [Dev.to](https://dev.to/shriekdj)
 * [Medium](https://shriekdj.medium.com/)
-* [CodeWithShriekDj Discord Server](https://discord.gg/5x493re7CV)
+* [Hashnode](https://shriekdj.hashnode.dev)
 
 
 <!--
