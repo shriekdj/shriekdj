@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Python Failed building wheel for backports.zoneinfo on Linux](https://dev.to/shriekdj/python-failed-building-wheel-for-backportszoneinfo-on-linux-2mo8)
+- [Python Failed building wheel for backports.zoneinfo on Linux](https://shriekdj.tk/python-failed-building-wheel-for-backportszoneinfo-on-linux)
 - [How to create and Activate the Virtual Environment for Python3 project.](https://dev.to/shriekdj/how-to-create-and-activate-the-virtual-environment-for-python3-project-3g4l)
+- [How to create and Activate the Virtual Environment for Python3 project.](https://shriekdj.tk/how-to-create-and-activate-the-virtual-environment-for-python3-project)
 - [Python venv or virtualenv won&#39;t activate on windows](https://dev.to/shriekdj/python-venv-or-virtualenv-wont-activate-on-windows-3e2)
-- [Django Posts Announcement](https://dev.to/shriekdj/django-posts-announcement-2aph)
-- [How The Web Works Explained With help of Figma On YouTube](https://dev.to/shriekdj/how-the-web-works-explained-with-help-of-figma-on-youtube-4k1o)
 <!-- BLOG-POST-LIST:END -->
