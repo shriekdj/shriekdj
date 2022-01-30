@@ -46,3 +46,4 @@ Here are some ideas to get you started:
 - [How to create and Activate the Virtual Environment for Python3 project.](https://shriekdj.tk/how-to-create-and-activate-the-virtual-environment-for-python3-project)
 - [Python venv or virtualenv won&#39;t activate on windows](https://dev.to/shriekdj/python-venv-or-virtualenv-wont-activate-on-windows-3e2)
 <!-- BLOG-POST-LIST:END -->
+---
