@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Website from Scratch - Part 4](https://dev.to/shriekdj/building-website-from-scratch-part-4-562h)
+- [Building Website from Scratch - Part 3](https://dev.to/shriekdj/building-website-from-scratch-part-3-313b)
+- [Building Website from Scratch - Part 2](https://dev.to/shriekdj/building-website-from-scratch-part-2-4ld2)
+- [Building Website from Scratch - Part 1](https://dev.to/shriekdj/building-website-from-scratch-part-1-2o73)
 - [Some Issues With Jekyll Type Sites on Github Pages for Google Search Console](https://dev.to/shriekdj/some-issues-with-jekyll-type-sites-on-github-pages-19g0)
-- [Python Failed building wheel for backports.zoneinfo on Linux](https://dev.to/shriekdj/python-failed-building-wheel-for-backportszoneinfo-on-linux-2mo8)
-- [How to create and Activate the Virtual Environment for Python3 project.](https://dev.to/shriekdj/how-to-create-and-activate-the-virtual-environment-for-python3-project-3g4l)
-- [Python venv or virtualenv won&#39;t activate on windows](https://dev.to/shriekdj/python-venv-or-virtualenv-wont-activate-on-windows-3e2)
-- [Django Posts Announcement](https://dev.to/shriekdj/django-posts-announcement-2aph)
 <!-- BLOG-POST-LIST:END -->
 ---
