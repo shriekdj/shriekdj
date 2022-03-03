@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Website from Scratch - Part 6](https://dev.to/shriekdj/building-website-from-scratch-part-6-4dh)
+- [Building Website from Scratch - Part 5](https://dev.to/shriekdj/building-website-from-scratch-part-5-2kej)
 - [Building Website from Scratch - Part 4](https://dev.to/shriekdj/building-website-from-scratch-part-4-562h)
 - [Building Website from Scratch - Part 3](https://dev.to/shriekdj/building-website-from-scratch-part-3-313b)
 - [Building Website from Scratch - Part 2](https://dev.to/shriekdj/building-website-from-scratch-part-2-4ld2)
-- [Building Website from Scratch - Part 1](https://dev.to/shriekdj/building-website-from-scratch-part-1-2o73)
-- [Some Issues With Jekyll Type Sites on Github Pages for Google Search Console](https://dev.to/shriekdj/some-issues-with-jekyll-type-sites-on-github-pages-19g0)
 <!-- BLOG-POST-LIST:END -->
 ---
