@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardest hello world program of Python lol](https://dev.to/shriekdj/trying-to-create-hello-world-in-python-3noj)
 - [Building Website from Scratch - Part 6](https://dev.to/shriekdj/building-website-from-scratch-part-6-4dh)
 - [Building Website from Scratch - Part 5](https://dev.to/shriekdj/building-website-from-scratch-part-5-2kej)
 - [Building Website from Scratch - Part 4](https://dev.to/shriekdj/building-website-from-scratch-part-4-562h)
 - [Building Website from Scratch - Part 3](https://dev.to/shriekdj/building-website-from-scratch-part-3-313b)
-- [Building Website from Scratch - Part 2](https://dev.to/shriekdj/building-website-from-scratch-part-2-4ld2)
 <!-- BLOG-POST-LIST:END -->
 ---
