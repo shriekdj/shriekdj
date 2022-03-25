@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Ideas for Front-end Projects In HTML, CSS and JS by shriekdj](https://dev.to/shriekdj/random-ideas-for-front-end-projects-in-html-css-and-js-by-shriekdj-40gg)
+- [Issues Occured While Running Python Project On Replit](https://dev.to/shriekdj/issues-occured-while-running-python-project-on-replit-2knp)
 - [Building Website from Scratch - Part 7](https://dev.to/shriekdj/building-website-from-scratch-part-7-3jj9)
 - [Hardest hello world program of Python lol](https://dev.to/shriekdj/trying-to-create-hello-world-in-python-3noj)
 - [Building Website from Scratch - Part 6](https://dev.to/shriekdj/building-website-from-scratch-part-6-4dh)
-- [Building Website from Scratch - Part 5](https://dev.to/shriekdj/building-website-from-scratch-part-5-2kej)
-- [Building Website from Scratch - Part 4](https://dev.to/shriekdj/building-website-from-scratch-part-4-562h)
 <!-- BLOG-POST-LIST:END -->
 ---
