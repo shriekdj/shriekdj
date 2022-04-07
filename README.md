@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP - Introduction by shriekdj | How to write Hello World Program in PHP by shriekdj](https://dev.to/shriekdj/php-introduction-by-shriekdj-how-to-write-hello-world-program-in-php-by-shriekdj-4fcn)
+- [PHP - Installation on Linux Based Operating System](https://dev.to/shriekdj/php-installation-on-linux-based-operating-system-3mfo)
+- [I Created an Template for Django project for Running Under Services like replit, heroku etc](https://dev.to/shriekdj/i-created-an-template-for-django-project-for-running-under-services-like-replit-heroku-etc-b4o)
+- [Replit Was Unable to Build the Virtual Environment for Python Project](https://dev.to/shriekdj/replit-was-unable-to-build-the-virtual-environment-for-python-project-14kk)
 - [Random Ideas for Front-end Projects In HTML, CSS and JS by shriekdj](https://dev.to/shriekdj/random-ideas-for-front-end-projects-in-html-css-and-js-by-shriekdj-40gg)
-- [Issues Occured While Running Python Project On Replit](https://dev.to/shriekdj/issues-occured-while-running-python-project-on-replit-2knp)
-- [Building Website from Scratch - Part 7](https://dev.to/shriekdj/building-website-from-scratch-part-7-3jj9)
-- [Hardest hello world program of Python lol](https://dev.to/shriekdj/trying-to-create-hello-world-in-python-3noj)
-- [Building Website from Scratch - Part 6](https://dev.to/shriekdj/building-website-from-scratch-part-6-4dh)
 <!-- BLOG-POST-LIST:END -->
 ---
