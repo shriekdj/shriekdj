@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Download Python 3 On Windows Without any Incorrect Version](https://dev.to/shriekdj/how-to-download-python-3-on-windows-without-any-incorrect-version-1kie)
+- [Python tutorials by shriekdj series announcement](https://dev.to/shriekdj/python-tutorials-by-shriekdj-series-announcement-b9f)
+- [Unable to Login Django Admin after Update : Giving Error Forbidden &lpar;403&rpar; CSRF verification failed. Request aborted.](https://dev.to/shriekdj/unable-to-login-django-admin-after-update-giving-error-forbidden-403-csrf-verification-failed-request-aborted-36g9)
 - [PHP - Introduction by shriekdj | How to write Hello World Program in PHP by shriekdj](https://dev.to/shriekdj/php-introduction-by-shriekdj-how-to-write-hello-world-program-in-php-by-shriekdj-4fcn)
 - [PHP - Installation on Linux Based Operating System](https://dev.to/shriekdj/php-installation-on-linux-based-operating-system-3mfo)
-- [I Created an Template for Django project for Running Under Services like replit, heroku etc](https://dev.to/shriekdj/i-created-an-template-for-django-project-for-running-under-services-like-replit-heroku-etc-b4o)
-- [Replit Was Unable to Build the Virtual Environment for Python Project](https://dev.to/shriekdj/replit-was-unable-to-build-the-virtual-environment-for-python-project-14kk)
-- [Random Ideas for Front-end Projects In HTML, CSS and JS by shriekdj](https://dev.to/shriekdj/random-ideas-for-front-end-projects-in-html-css-and-js-by-shriekdj-40gg)
 <!-- BLOG-POST-LIST:END -->
 ---
