@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Published the Python Package on PyPi : pip install google-address-to-latlong-csv](https://dev.to/shriekdj/i-published-the-python-package-on-pypi-3818)
+- [Creating an Website or Webapp in Django Web Framework](https://dev.to/shriekdj/creating-an-website-or-webapp-in-django-web-framework-2dn)
+- [PHP Related Small Tips for Improving the Speed of Writing Program](https://dev.to/shriekdj/php-related-small-tips-for-improving-the-speed-of-writing-program-1330)
+- [How to Start writing Python 3 Program](https://dev.to/shriekdj/how-to-start-writing-python-3-program-222d)
 - [How to Download Python 3 On Windows Without any Incorrect Version](https://dev.to/shriekdj/how-to-download-python-3-on-windows-without-any-incorrect-version-1kie)
-- [Python tutorials by shriekdj series announcement](https://dev.to/shriekdj/python-tutorials-by-shriekdj-series-announcement-b9f)
-- [Unable to Login Django Admin after Update : Giving Error Forbidden &lpar;403&rpar; CSRF verification failed. Request aborted.](https://dev.to/shriekdj/unable-to-login-django-admin-after-update-giving-error-forbidden-403-csrf-verification-failed-request-aborted-36g9)
-- [PHP - Introduction by shriekdj | How to write Hello World Program in PHP by shriekdj](https://dev.to/shriekdj/php-introduction-by-shriekdj-how-to-write-hello-world-program-in-php-by-shriekdj-4fcn)
-- [PHP - Installation on Linux Based Operating System](https://dev.to/shriekdj/php-installation-on-linux-based-operating-system-3mfo)
 <!-- BLOG-POST-LIST:END -->
 ---
