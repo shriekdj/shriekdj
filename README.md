@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My [Hashnode](https://shriekdj.hashnode.dev/) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Published the Python Package on PyPi : pip install google-address-to-latlong-csv](https://dev.to/shriekdj/i-published-the-python-package-on-pypi-3818)
-- [Creating an Website or Webapp in Django Web Framework](https://dev.to/shriekdj/creating-an-website-or-webapp-in-django-web-framework-2dn)
-- [PHP Related Small Tips for Improving the Speed of Writing Program](https://dev.to/shriekdj/php-related-small-tips-for-improving-the-speed-of-writing-program-1330)
-- [How to Start writing Python 3 Program](https://dev.to/shriekdj/how-to-start-writing-python-3-program-222d)
-- [How to Download Python 3 On Windows Without any Incorrect Version](https://dev.to/shriekdj/how-to-download-python-3-on-windows-without-any-incorrect-version-1kie)
+- [Creating HTML Template And Views | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/creating-html-template-and-views-django-cms-building-by-shriekdj)
+- [Creating Custom Profile and Tag | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/creating-custom-profile-and-tag-django-cms-building-by-shriekdj)
+- [Customizing Slug Field for Post Model | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/customizing-slug-field-for-post-model-django-cms-building-by-shriekdj)
+- [Creating Custom CMS In Django | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/creating-custom-cms-in-django-django-cms-building-by-shriekdj)
+- [I Published the Python Package on PyPi : pip install google-address-to-latlong-csv](https://shriekdj.hashnode.dev/i-published-the-python-package-on-pypi-pip-install-google-address-to-latlong-csv)
 <!-- BLOG-POST-LIST:END -->
 ---
