@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My [dev.to](https://dev.to/shriekdj) Latest Blog posts
+## My [Hashnode](https://shriekdj.hashnode.dev/) Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [I Published the Python Package on PyPi : pip install google-address-to-latlong-csv](https://dev.to/shriekdj/i-published-the-python-package-on-pypi-3818)
 - [Creating an Website or Webapp in Django Web Framework](https://dev.to/shriekdj/creating-an-website-or-webapp-in-django-web-framework-2dn)
