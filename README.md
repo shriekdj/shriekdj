@@ -39,11 +39,8 @@ Here are some ideas to get you started:
 -->
 
 ## My [Hashnode](https://shriekdj.hashnode.dev/) Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Creating HTML Template And Views | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/creating-html-template-and-views-django-cms-building-by-shriekdj)
-- [Creating Custom Profile and Tag | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/creating-custom-profile-and-tag-django-cms-building-by-shriekdj)
-- [Customizing Slug Field for Post Model | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/customizing-slug-field-for-post-model-django-cms-building-by-shriekdj)
-- [Creating Custom CMS In Django | Django CMS Building By shriekdj](https://shriekdj.hashnode.dev/creating-custom-cms-in-django-django-cms-building-by-shriekdj)
-- [I Published the Python Package on PyPi : pip install google-address-to-latlong-csv](https://shriekdj.hashnode.dev/i-published-the-python-package-on-pypi-pip-install-google-address-to-latlong-csv)
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+</table>
 ---
