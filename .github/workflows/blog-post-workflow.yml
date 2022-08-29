@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://shriekdj.hashnode.dev/rss.xml"
-          template: "<tr><td>$title</td><td><a href="$url" target="_blank">($url)</a></td></tr>"
+          template: "<tr><td>$title</td><td><a href='$url' target='_blank'>($url)</a></td></tr>"
