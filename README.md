@@ -15,7 +15,7 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 ### You can find me on:
 
 * [My website: codewithshriekdj.netlify.app](https://codewithshriekdj.netlify.app/)
-* [Twitter as @shriekdj](https://x.com/shriekdj)
+* [X/Twitter as @shriekdj](https://x.com/shriekdj)
 * [GitHub as @shriekdj (you are here)](https://github.com/shriekdj)
 * [LinkedIn](https://www.linkedin.com/in/shriekdj/)
 * [Dev.to](https://dev.to/shriekdj)
