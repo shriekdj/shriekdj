@@ -2,7 +2,7 @@
 
 I'm a software developer from India. :india:
 
-I'm live in Shrirampur City, Maharastra :india:
+I'm live in Pune and Shrirampur City, Maharastra :india:
 
 I'm currently learning Back-end Web Developing via Python Programming Language.
 
